@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**Nikita-Skliarov/nikita-skliarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub corner!
 
-Here are some ideas to get you started:
+I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innovative solutions to everyday problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 Currently diving deep into **WebDev**.
+- 💼 Studying on **ROC van Twente**.
+- 
+## Technologies I'm Fond of
+
+- Languages: PHP, JS.
+- Frameworks & Libraries: JQuery, Bootstrap, Bulma.
+- Databases: phpMyAdmin, MySQL
+- Tools & Platforms: Figma, AzureDevOps.
+
+## Find Me Elsewhere
+
+- [PORTFOLIO](ns-my-portfolio.nl)
+- [LinkedIn](https://www.linkedin.com/in/nikita-skliarov-46a2752b1/?locale=uk_UA)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## My Latest Endeavors
+
+- [Bulma portfolio](https://github.com/Nikita-Skliarov/bulma-portfolio)
+- [Mall](https://github.com/Nikita-Skliarov/bulma-portfolio)
+- [Bootstrap portfolio](https://github.com/Nikita-Skliarov/bootstrap-portfolio)
+
+Feel free to delve into my repositories and drop a line if you have any questions or just want to connect. Collaboration and fresh perspectives are always welcome!
+
+Thanks for stopping by! 🚀
