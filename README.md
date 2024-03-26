@@ -23,9 +23,9 @@ I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innova
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikita-skliarov&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-skliarov&layout=compact&theme=radical)
 
 ## My Latest Endeavors
 
