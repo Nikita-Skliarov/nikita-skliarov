@@ -8,7 +8,7 @@ I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innova
 
 - 🌱 Currently diving deep into **WebDev**.
 - 💼 Studying on **ROC van Twente**.
-- 
+
 ## Technologies I'm Fond of
 
 - Languages: PHP, JS.
