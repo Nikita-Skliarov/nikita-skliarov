@@ -30,7 +30,7 @@ I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innova
 ## My Latest Endeavors
 
 - [Bulma portfolio](https://github.com/Nikita-Skliarov/bulma-portfolio)
-- [Mall](https://github.com/Nikita-Skliarov/bulma-portfolio)
+- [Mall](https://codecrafters-roc.nl)
 - [Bootstrap portfolio](https://github.com/Nikita-Skliarov/bootstrap-portfolio)
 
 Feel free to delve into my repositories and drop a line if you have any questions or just want to connect. Collaboration and fresh perspectives are always welcome!
