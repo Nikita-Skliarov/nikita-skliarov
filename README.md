@@ -18,7 +18,7 @@ I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innova
 
 ## Find Me Elsewhere
 
-- [PORTFOLIO](ns-my-portfolio.nl)
+- [PORTFOLIO](https://ns-my-portfolio.nl)
 - [LinkedIn](https://www.linkedin.com/in/nikita-skliarov-46a2752b1/?locale=uk_UA)
 
 ## GitHub Stats
