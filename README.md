@@ -6,7 +6,7 @@ I'm Nikita SKliarov, an IT enthusiast. I am constantly on the lookout for innova
 
 ## About Me
 
-- 🌱 Currently diving deep into **WebDev**.
+- 🌱 Currently diving deep into **Laravel and WebDev at all**.
 - 💼 Studying on **ROC van Twente**.
 
 ## Technologies I'm Fond of
