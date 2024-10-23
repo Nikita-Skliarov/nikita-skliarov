@@ -12,7 +12,6 @@ $ skills --list
 + Databases: phpMyAdmin, MySQL, SQLite
 
 $ find_me --links
-+ Portfolio: [ns-my-portfolio.nl](https://ns-my-portfolio.nl)
-+ LinkedIn: [nikita-skliarov](https://www.linkedin.com/in/nikita-skliarov-46a2752b1/?locale=uk_UA)
++ ns-my-portfolio.nl
 
 $ echo "Thanks for visiting! 🚀"
