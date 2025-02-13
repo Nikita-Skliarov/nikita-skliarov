@@ -1,15 +1,14 @@
 ```diff
 $ whoami
-+ Nikita Skliarov - IT enthusiast, solving everyday problems through code.
++ Nikita Skliarov - IT enthusiast, solving everyday problems through code. The lucky owner of a soulmate and programmer at [The Freight Hero](https://www.thefreighthero.nl/)
 
 $ current_status
-+ 📚 Learning: WebDev (ASP.NET MVC, Laravel)
++ 📚 Learning: WebDev (Laravel, ASP.NET)
 + 🎓 Studying: Software Development @ ROC van Twente
 
 $ skills --list
-+ Languages: C#, PHP, JS
-+ Frameworks: ASP.NET (MVC), Laravel, Tailwind, Bootstrap, Bulma, jQuery
-+ Databases: phpMyAdmin, MySQL, SQLite
++ Languages: PHP, C#, JS, Python.
++ Frameworks: Laravel, ASP.NET, Vue.js
 
 $ find_me --links
 + ns-my-portfolio.nl
