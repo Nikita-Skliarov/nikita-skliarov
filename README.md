@@ -11,4 +11,8 @@ $ skills --list
 + Languages: PHP, C#, JS, Python.
 + Frameworks: Laravel, ASP.NET, Filament, Livewire
 
+$ contributions --snake
+
+![GitHub Snake Light](dist/ocean.gif)
+
 $ echo "Thanks for visiting! 🚀"
