@@ -12,10 +12,15 @@ $ skills --list
 + Frameworks: Laravel, ASP.NET, Filament, Livewire
 
 $ contributions --snake
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/github-snake.svg" />
+</picture>
 
-![GitHub Snake](https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/github-snake-dark.svg)
-![GitHub Snake GIF](https://raw.githubusercontent.com/Nikita-Skliarov/nikita-skliarov/output/ocean.gif)
 
-
+```diff
 $ echo "Thanks for visiting! 🚀"
+
+```
