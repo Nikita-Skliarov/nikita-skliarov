@@ -5,7 +5,6 @@ $ whoami
 $ current_status
 +  Learning: Full Stack dev
 +  Working for The Freight Hero
-+  Studying: Software Development @ ROC van Twente
 
 $ skills --list
 + Languages: PHP, C#, JS, Python.
