@@ -1,5 +1,3 @@
-# Nikita Skliarov-Napriahlo
-
 ## What I do
 
 Full stack developer focusing on **multi-tenant SaaS platforms**, from database schema to the last pixel. Currently building freight-tech at **The Freight Hero B.V.** — working on quotation systems, rate engines with 100+ cost types, shipment management, and Dutch VAT logic.
